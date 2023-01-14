@@ -1,0 +1,15 @@
+body {
+            background-color: #CCFFFF;
+        }
+
+        hr {
+            
+            width: 7%;
+            border-style: none;
+            border-top-style: dotted;
+            border-color: greenyellow;
+            border-width: 10px;
+        }
+h2 {
+    color: rgb(245, 201, 143);
+}
